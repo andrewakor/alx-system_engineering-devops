@@ -1,1 +1,1 @@
-absolute pathname of the print
+dispaly the list of your current directory
